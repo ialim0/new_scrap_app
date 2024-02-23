@@ -16,7 +16,7 @@ load_dotenv()
 from dotenv import load_dotenv
 load_dotenv()  # take environment variables from .env (especially openai api key)
 
-st.title("AIBot : News Research Tool 📈")
+st.title("AI FINANCE : News Research Tool 📈")
 st.sidebar.title("News Article URLs")
 
 urls = []
